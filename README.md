@@ -13,4 +13,6 @@
 在作题介绍还有这以隐喻。
 - **Q3**\
 我首先按习惯从小到大循环，而答案利用了factor大的性质从大到小循环减小了循环次数。
+## lab01
+> *little simple*, do it enhance your remember.
 
