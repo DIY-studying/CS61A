@@ -21,3 +21,5 @@
 最后一个finish_strategy我没实现，因为我没什么想法。[PKUFlyingPig](https://github.com/PKUFlyingPig/CS61A/blob/b6be9f79f8042e54c41a945d8675bf8694f57289/projects/hog/hog.py)的实现我没看懂，有点小失落，不过感谢他让我知道了这么好的资源。
 ## hw02
 > *Simple*, beacuse I already have program experience.
+## lab02
+> *Unbelievable*, this let me know or and and operator is different what I thought.
