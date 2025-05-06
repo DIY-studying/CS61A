@@ -23,3 +23,5 @@
 > *Simple*, beacuse I already have program experience.
 ## lab02
 > *Unbelievable*, this let me know or and and operator is different what I thought.
+## hw03
+> *little hard*, this Brainstorming.
