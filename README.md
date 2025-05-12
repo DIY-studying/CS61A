@@ -25,3 +25,5 @@
 > *Unbelievable*, this let me know or and and operator is different what I thought.
 ## hw03
 > *little hard*, this Brainstorming.
+## lab
+> *simple*
