@@ -39,3 +39,7 @@
 > *simple*, this section iterators is fresh my mind think of python.
 ## hw05
 > *simple*
+## ants
+> *interesting*
+
+    这个项目让我理解了一样东西，为什么他不用具体的类来区分一个类别的功能，而是用类属性来实现。这是因为在使用类的实例的时候可以让使用者忽略对具体类的学习，形成抽象，减轻负担（amazing)。这个项目让我对Python的底层实现都是对象有了理解。并且知道了可以修改实例方法(problem 12)。这增加了我对编程语言的视野，
