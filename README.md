@@ -47,3 +47,7 @@
 > *simple*, enhance your memory.
 ## hw06
 > *simple*
+## lab07
+> *simple*
+
+  Q1改变了我对python类属性的第一印象，不错。
