@@ -51,3 +51,5 @@
 > *simple*
 
   Q1改变了我对python类属性的第一印象，不错。
+## lab08
+> *simple*, it is my first time to feel recursion function is easy write.
