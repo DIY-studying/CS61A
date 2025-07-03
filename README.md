@@ -53,3 +53,8 @@
   Q1改变了我对python类属性的第一印象，不错。
 ## lab08
 > *simple*, it is my first time to feel recursion function is easy write.
+## lab09
+> *simple*, enhance your memory of scheme.
+
+# 书籍读后感
+    section3.5让我明白了为什么字段命名不能以数字开头。这是因为他要用来区分数字和常规变量。
