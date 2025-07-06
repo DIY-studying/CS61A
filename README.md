@@ -55,6 +55,8 @@
 > *simple*, it is my first time to feel recursion function is easy write.
 ## lab09
 > *simple*, enhance your memory of scheme.
+## hw07
+> *simple*, improve yout scheme skill.
 
 # 书籍读后感
     section3.5让我明白了为什么字段命名不能以数字开头。这是因为他要用来区分数字和常规变量。
